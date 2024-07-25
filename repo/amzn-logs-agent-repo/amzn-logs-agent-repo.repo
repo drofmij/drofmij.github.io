@@ -1,5 +1,0 @@
-[drofmij-repo]
-name=Drofmij amzn-logs-agent repository
-baseurl=http://drofmij.github.io/amzn-logs-agent-repo/
-enabled=1
-gpgcheck=0
